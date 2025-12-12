@@ -1,31 +1,37 @@
-# Attack Scenarios (Rogue Switch–Centric)
+# Attack Scenarios (Rogue Switch as the Enabler, Not the Attacker)
 
-The primary threat in this project is the introduction of a **rogue switch** into the LAN.  
-The rogue device is only an endpoint attached behind the rogue switch; all malicious activity originates from the switch’s unauthorized extension of the network fabric.
-
----
-
-### 1. Rogue Switch Enabling ARP Spoofing
-The rogue switch extends the LAN to unauthorized devices, allowing a downstream attacker to inject forged ARP replies.  
-The switch’s uplink masks multiple hosts behind a single port, bypassing port-level controls.
-
-Key behaviours:
-- Unsolicited ARP replies reaching multiple hosts  
-- Gateway MAC overwritten across the network  
-- Traffic interception via the rogue switch uplink  
+A rogue switch is an unauthorized extension of the LAN that allows attackers to bypass port-level controls and hide multiple devices behind a single uplink. 
+The attacks originate from the device connected behind the rogue switch, but the switch enables them to propagate deeper into the network.
 
 ---
 
-### 2. Rogue Switch Manipulating STP (Root Takeover Attempt)
-Only a rogue **switch**—not a device—can send BPDUs capable of influencing Spanning Tree Protocol.  
-The rogue switch attempts to become the root bridge, placing itself in the forwarding path.
+### 1. ARP Spoofing via Rogue Switch Uplink
+The downstream attacker uses the rogue switch to inject forged ARP replies. 
+Because multiple devices sit behind one port, the legitimate switch cannot enforce normal per-port security.
 
-Key behaviours:
-- Superior BPDUs from unauthorized bridge  
-- Unexpected root ID and root MAC changes  
-- Uplink ports entering root-inconsistent state  
+Key observations:
+- Unsolicited ARP replies entering through the rogue switch uplink  
+- Gateway and host MAC entries overwritten  
+- Traffic redirected through the attacker behind the switch  
 
 ---
 
-### 3. Rogue Switch Executing MAC Flooding
-The rogue switch forwards high-volume spoofed MAC traffic from its downstream p
+### 2. STP Manipulation by Unauthorized Switch
+Only a switch can send BPDUs. 
+The attacker introduces a rogue switch configured to send superior BPDUs, attempting to reposition itself within the spanning-tree topology.
+
+Key observations:
+- Superior BPDUs arriving from an unauthorized switch  
+- Sudden changes in root ID or priority  
+- Uplink entering root-inconsistent state (Root Guard trigger)  
+
+---
+
+### 3. MAC Flooding Generated Behind the Rogue Switch
+The attacker floods the network with fabricated MAC addresses through the rogue switch. 
+The switch amplifies the attack by funneling many addresses into a single uplink.
+
+Key observations:
+- Excessive MAC learning on one interface  
+- CAM table saturation  
+- Switch fallback to broadcast behavior  
