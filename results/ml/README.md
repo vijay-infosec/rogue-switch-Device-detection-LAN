@@ -5,7 +5,7 @@ This folder contains outputs for the lightweight ML model used to classify rogue
 ## Files
 - confusion_matrix.png — Classification performance overview.
 - ml_metrics.png — Accuracy and evaluation metrics.
-- sample_dataset.csv — Example input features used for training (optional).
+- sample_dataset.csv — Example input features used for training.
 
 ## Summary
 The model identifies Layer 2 behaviour deviations caused by a rogue switch and downstream attackers, providing a simple anomaly score for detection.
