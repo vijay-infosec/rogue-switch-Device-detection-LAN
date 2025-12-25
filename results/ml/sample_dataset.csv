@@ -1,0 +1,117 @@
+Time,Source,Destination,Protocol,Length,Opcode,Info
+3.031983,PCSSystemtec_df:12:91,08:00:8b:37:2c,ARP,60,reply,192.168.1.48 is at 08:00:27:df:12:91
+3.03256,PCSSystemtec_df:12:91,0B:09:XX:6a:59,ARP,60,reply,192.168.1.52 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.48 detected!)
+4.043152,PCSSystemtec_df:12:91,08:00:8b:60:5d,ARP,60,reply,192.168.1.177 is at 08:00:27:df:12:91
+4.043152,PCSSystemtec_df:12:91,0B:09:XX:89:26,ARP,60,reply,192.168.1.123 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.177 detected!)
+14.058539,PCSSystemtec_df:12:91,08:00:8b:42:29,ARP,60,reply,192.168.1.225 is at 08:00:27:df:12:91
+14.058981,PCSSystemtec_df:12:91,0B:09:XX:ad:62,ARP,60,reply,192.168.1.6 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.225 detected!)
+24.073854,PCSSystemtec_df:12:91,08:00:8b:fd:14,ARP,60,reply,192.168.1.209 is at 08:00:27:df:12:91
+24.073854,PCSSystemtec_df:12:91,0B:09:XX:57:ef,ARP,60,reply,192.168.1.241 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.209 detected!)
+34.089243,PCSSystemtec_df:12:91,08:00:8b:3b:69,ARP,60,reply,192.168.1.248 is at 08:00:27:df:12:91
+34.089243,PCSSystemtec_df:12:91,0B:09:XX:a2:86,ARP,60,reply,192.168.1.79 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.248 detected!)
+44.104353,PCSSystemtec_df:12:91,08:00:8b:71:93,ARP,60,reply,192.168.1.136 is at 08:00:27:df:12:91
+44.104762,PCSSystemtec_df:12:91,0B:09:XX:64:5f,ARP,60,reply,192.168.1.26 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.136 detected!)
+54.119975,PCSSystemtec_df:12:91,08:00:8b:b5:0c,ARP,60,reply,192.168.1.95 is at 08:00:27:df:12:91
+54.119975,PCSSystemtec_df:12:91,0B:09:XX:dd:e6,ARP,60,reply,192.168.1.233 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.95 detected!)
+64.134914,PCSSystemtec_df:12:91,08:00:8b:c4:ae,ARP,60,reply,192.168.1.179 is at 08:00:27:df:12:91
+64.135442,PCSSystemtec_df:12:91,0B:09:XX:37:37,ARP,60,reply,192.168.1.222 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.179 detected!)
+74.150529,PCSSystemtec_df:12:91,08:00:8b:7d:6e,ARP,60,reply,192.168.1.168 is at 08:00:27:df:12:91
+74.150529,PCSSystemtec_df:12:91,0B:09:XX:75:a4,ARP,60,reply,192.168.1.146 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.168 detected!)
+84.1659,PCSSystemtec_df:12:91,08:00:8b:e5:85,ARP,60,reply,192.168.1.156 is at 08:00:27:df:12:91
+84.166302,PCSSystemtec_df:12:91,0B:09:XX:5b:d6,ARP,60,reply,192.168.1.252 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.156 detected!)
+94.196959,PCSSystemtec_df:12:91,08:00:8b:89:83,ARP,60,reply,192.168.1.136 is at 08:00:27:df:12:91
+94.197512,PCSSystemtec_df:12:91,0B:09:XX:b3:93,ARP,60,reply,192.168.1.86 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.136 detected!)
+104.279199,PCSSystemtec_df:12:91,08:00:8b:19:98,ARP,60,reply,192.168.1.191 is at 08:00:27:df:12:91
+104.279697,PCSSystemtec_df:12:91,0B:09:XX:53:c8,ARP,60,reply,192.168.1.46 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.191 detected!)
+114.344242,PCSSystemtec_df:12:91,08:00:8b:cc:26,ARP,60,reply,192.168.1.66 is at 08:00:27:df:12:91
+114.344703,PCSSystemtec_df:12:91,0B:09:XX:28:e8,ARP,60,reply,192.168.1.86 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.66 detected!)
+124.359797,PCSSystemtec_df:12:91,08:00:8b:73:bf,ARP,60,reply,192.168.1.16 is at 08:00:27:df:12:91
+124.359797,PCSSystemtec_df:12:91,0B:09:XX:ac:4b,ARP,60,reply,192.168.1.226 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.16 detected!)
+134.367944,PCSSystemtec_df:12:91,08:00:8b:fe:21,ARP,60,reply,192.168.1.104 is at 08:00:27:df:12:91
+134.367944,PCSSystemtec_df:12:91,0B:09:XX:91:e5,ARP,60,reply,192.168.1.251 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.104 detected!)
+144.373377,PCSSystemtec_df:12:91,08:00:8b:99:5a,ARP,60,reply,192.168.1.185 is at 08:00:27:df:12:91
+144.373377,PCSSystemtec_df:12:91,0B:09:XX:fc:0e,ARP,60,reply,192.168.1.93 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.185 detected!)
+154.37887,PCSSystemtec_df:12:91,08:00:8b:6a:30,ARP,60,reply,192.168.1.240 is at 08:00:27:df:12:91
+154.37887,PCSSystemtec_df:12:91,0B:09:XX:23:30,ARP,60,reply,192.168.1.66 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.240 detected!)
+164.384062,PCSSystemtec_df:12:91,08:00:8b:fa:c0,ARP,60,reply,192.168.1.137 is at 08:00:27:df:12:91
+164.384062,PCSSystemtec_df:12:91,0B:09:XX:be:62,ARP,60,reply,192.168.1.127 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.137 detected!)
+174.389407,PCSSystemtec_df:12:91,08:00:8b:31:ee,ARP,60,reply,192.168.1.109 is at 08:00:27:df:12:91
+174.389885,PCSSystemtec_df:12:91,0B:09:XX:75:bf,ARP,60,reply,192.168.1.4 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.109 detected!)
+184.395065,PCSSystemtec_df:12:91,08:00:8b:2c:16,ARP,60,reply,192.168.1.250 is at 08:00:27:df:12:91
+184.395065,PCSSystemtec_df:12:91,0B:09:XX:be:d1,ARP,60,reply,192.168.1.34 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.250 detected!)
+194.400267,PCSSystemtec_df:12:91,08:00:8b:05:ba,ARP,60,reply,192.168.1.160 is at 08:00:27:df:12:91
+194.400267,PCSSystemtec_df:12:91,0B:09:XX:8f:3f,ARP,60,reply,192.168.1.180 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.160 detected!)
+204.40567,PCSSystemtec_df:12:91,08:00:8b:1e:35,ARP,60,reply,192.168.1.65 is at 08:00:27:df:12:91
+204.40567,PCSSystemtec_df:12:91,0B:09:XX:c6:d5,ARP,60,reply,192.168.1.121 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.65 detected!)
+214.410872,PCSSystemtec_df:12:91,08:00:8b:eb:35,ARP,60,reply,192.168.1.79 is at 08:00:27:df:12:91
+214.410872,PCSSystemtec_df:12:91,0B:09:XX:21:5b,ARP,60,reply,192.168.1.193 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.79 detected!)
+224.416421,PCSSystemtec_df:12:91,08:00:8b:99:b7,ARP,60,reply,192.168.1.159 is at 08:00:27:df:12:91
+224.416421,PCSSystemtec_df:12:91,0B:09:XX:4e:1c,ARP,60,reply,192.168.1.99 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.159 detected!)
+234.421512,PCSSystemtec_df:12:91,08:00:8b:ab:7b,ARP,60,reply,192.168.1.197 is at 08:00:27:df:12:91
+234.422076,PCSSystemtec_df:12:91,0B:09:XX:bb:86,ARP,60,reply,192.168.1.200 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.197 detected!)
+244.434348,PCSSystemtec_df:12:91,08:00:8b:00:ae,ARP,60,reply,192.168.1.177 is at 08:00:27:df:12:91
+244.434844,PCSSystemtec_df:12:91,0B:09:XX:e5:6c,ARP,60,reply,192.168.1.22 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.177 detected!)
+254.450181,PCSSystemtec_df:12:91,08:00:8b:cb:aa,ARP,60,reply,192.168.1.223 is at 08:00:27:df:12:91
+254.450181,PCSSystemtec_df:12:91,0B:09:XX:8e:c1,ARP,60,reply,192.168.1.113 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.223 detected!)
+264.465287,PCSSystemtec_df:12:91,08:00:8b:5c:31,ARP,60,reply,192.168.1.112 is at 08:00:27:df:12:91
+264.465781,PCSSystemtec_df:12:91,0B:09:XX:45:0f,ARP,60,reply,192.168.1.125 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.112 detected!)
+274.485606,PCSSystemtec_df:12:91,08:00:8b:72:1f,ARP,60,reply,192.168.1.19 is at 08:00:27:df:12:91
+274.485606,PCSSystemtec_df:12:91,0B:09:XX:1a:a5,ARP,60,reply,192.168.1.9 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.19 detected!)
+284.503114,PCSSystemtec_df:12:91,08:00:8b:0d:9c,ARP,60,reply,192.168.1.34 is at 08:00:27:df:12:91
+284.503114,PCSSystemtec_df:12:91,0B:09:XX:65:2c,ARP,60,reply,192.168.1.74 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.34 detected!)
+294.520665,PCSSystemtec_df:12:91,08:00:8b:6a:04,ARP,60,reply,192.168.1.194 is at 08:00:27:df:12:91
+294.520665,PCSSystemtec_df:12:91,0B:09:XX:6c:0f,ARP,60,reply,192.168.1.138 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.194 detected!)
+304.541846,PCSSystemtec_df:12:91,08:00:8b:83:0e,ARP,60,reply,192.168.1.254 is at 08:00:27:df:12:91
+304.541846,PCSSystemtec_df:12:91,0B:09:XX:26:d8,ARP,60,reply,192.168.1.228 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.254 detected!)
+314.556843,PCSSystemtec_df:12:91,08:00:8b:a3:94,ARP,60,reply,192.168.1.54 is at 08:00:27:df:12:91
+314.557351,PCSSystemtec_df:12:91,0B:09:XX:b3:af,ARP,60,reply,192.168.1.35 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.54 detected!)
+324.572667,PCSSystemtec_df:12:91,08:00:8b:6d:79,ARP,60,reply,192.168.1.235 is at 08:00:27:df:12:91
+324.572667,PCSSystemtec_df:12:91,0B:09:XX:e7:3d,ARP,60,reply,192.168.1.219 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.235 detected!)
+334.587944,PCSSystemtec_df:12:91,08:00:8b:39:a4,ARP,60,reply,192.168.1.208 is at 08:00:27:df:12:91
+334.587944,PCSSystemtec_df:12:91,0B:09:XX:29:59,ARP,60,reply,192.168.1.114 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.208 detected!)
+344.595697,PCSSystemtec_df:12:91,08:00:8b:fd:1d,ARP,60,reply,192.168.1.67 is at 08:00:27:df:12:91
+344.596238,PCSSystemtec_df:12:91,0B:09:XX:56:6b,ARP,60,reply,192.168.1.33 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.67 detected!)
+354.601062,PCSSystemtec_df:12:91,08:00:8b:ce:3e,ARP,60,reply,192.168.1.197 is at 08:00:27:df:12:91
+354.601592,PCSSystemtec_df:12:91,0B:09:XX:38:32,ARP,60,reply,192.168.1.38 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.197 detected!)
+364.606618,PCSSystemtec_df:12:91,08:00:8b:bc:1a,ARP,60,reply,192.168.1.188 is at 08:00:27:df:12:91
+364.606618,PCSSystemtec_df:12:91,0B:09:XX:b9:f5,ARP,60,reply,192.168.1.47 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.188 detected!)
+374.624698,PCSSystemtec_df:12:91,08:00:8b:c5:3e,ARP,60,reply,192.168.1.89 is at 08:00:27:df:12:91
+374.624698,PCSSystemtec_df:12:91,0B:09:XX:9b:77,ARP,60,reply,192.168.1.188 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.89 detected!)
+384.666328,PCSSystemtec_df:12:91,08:00:8b:69:6b,ARP,60,reply,192.168.1.73 is at 08:00:27:df:12:91
+384.666328,PCSSystemtec_df:12:91,0B:09:XX:58:46,ARP,60,reply,192.168.1.117 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.73 detected!)
+394.683871,PCSSystemtec_df:12:91,08:00:8b:f7:75,ARP,60,reply,192.168.1.136 is at 08:00:27:df:12:91
+394.683871,PCSSystemtec_df:12:91,0B:09:XX:63:23,ARP,60,reply,192.168.1.128 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.136 detected!)
+404.699645,PCSSystemtec_df:12:91,08:00:8b:d1:5c,ARP,60,reply,192.168.1.246 is at 08:00:27:df:12:91
+404.699645,PCSSystemtec_df:12:91,0B:09:XX:af:3f,ARP,60,reply,192.168.1.195 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.246 detected!)
+414.714048,PCSSystemtec_df:12:91,08:00:8b:eb:0c,ARP,60,reply,192.168.1.249 is at 08:00:27:df:12:91
+414.714048,PCSSystemtec_df:12:91,0B:09:XX:4d:38,ARP,60,reply,192.168.1.70 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.249 detected!)
+424.721704,PCSSystemtec_df:12:91,08:00:8b:27:8b,ARP,60,reply,192.168.1.1 is at 08:00:27:df:12:91
+424.721704,PCSSystemtec_df:12:91,0B:09:XX:fa:35,ARP,60,reply,192.168.1.28 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.1 detected!)
+434.728539,PCSSystemtec_df:12:91,08:00:8b:f1:2e,ARP,60,reply,192.168.1.84 is at 08:00:27:df:12:91
+434.729087,PCSSystemtec_df:12:91,0B:09:XX:7a:ca,ARP,60,reply,192.168.1.13 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.84 detected!)
+444.742608,PCSSystemtec_df:12:91,08:00:8b:5e:87,ARP,60,reply,192.168.1.96 is at 08:00:27:df:12:91
+444.742608,PCSSystemtec_df:12:91,0B:09:XX:73:4c,ARP,60,reply,192.168.1.128 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.96 detected!)
+454.757705,PCSSystemtec_df:12:91,08:00:8b:a8:7d,ARP,60,reply,192.168.1.15 is at 08:00:27:df:12:91
+454.758238,PCSSystemtec_df:12:91,0B:09:XX:97:e5,ARP,60,reply,192.168.1.89 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.15 detected!)
+464.765305,PCSSystemtec_df:12:91,08:00:8b:27:86,ARP,60,reply,192.168.1.251 is at 08:00:27:df:12:91
+464.765801,PCSSystemtec_df:12:91,0B:09:XX:88:7a,ARP,60,reply,192.168.1.222 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.251 detected!)
+474.771058,PCSSystemtec_df:12:91,08:00:8b:9a:59,ARP,60,reply,192.168.1.88 is at 08:00:27:df:12:91
+474.771058,PCSSystemtec_df:12:91,0B:09:XX:cd:14,ARP,60,reply,192.168.1.157 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.88 detected!)
+484.784126,PCSSystemtec_df:12:91,08:00:8b:9b:6c,ARP,60,reply,192.168.1.105 is at 08:00:27:df:12:91
+484.784126,PCSSystemtec_df:12:91,0B:09:XX:c4:1c,ARP,60,reply,192.168.1.225 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.105 detected!)
+494.799385,PCSSystemtec_df:12:91,08:00:8b:d4:ee,ARP,60,reply,192.168.1.79 is at 08:00:27:df:12:91
+494.799385,PCSSystemtec_df:12:91,0B:09:XX:20:e0,ARP,60,reply,192.168.1.175 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.79 detected!)
+504.8071,PCSSystemtec_df:12:91,08:00:8b:55:f8,ARP,60,reply,192.168.1.59 is at 08:00:27:df:12:91
+504.8071,PCSSystemtec_df:12:91,0B:09:XX:34:a6,ARP,60,reply,192.168.1.220 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.59 detected!)
+514.812919,PCSSystemtec_df:12:91,08:00:8b:4a:25,ARP,60,reply,192.168.1.103 is at 08:00:27:df:12:91
+514.812919,PCSSystemtec_df:12:91,0B:09:XX:34:3b,ARP,60,reply,192.168.1.201 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.103 detected!)
+524.817904,PCSSystemtec_df:12:91,08:00:8b:18:38,ARP,60,reply,192.168.1.208 is at 08:00:27:df:12:91
+524.817904,PCSSystemtec_df:12:91,0B:09:XX:19:e4,ARP,60,reply,192.168.1.137 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.208 detected!)
+534.823484,PCSSystemtec_df:12:91,08:00:8b:02:bf,ARP,60,reply,192.168.1.156 is at 08:00:27:df:12:91
+534.823484,PCSSystemtec_df:12:91,0B:09:XX:2d:da,ARP,60,reply,192.168.1.106 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.156 detected!)
+544.84284,PCSSystemtec_df:12:91,08:00:8b:79:d1,ARP,60,reply,192.168.1.29 is at 08:00:27:df:12:91
+544.843304,PCSSystemtec_df:12:91,0B:09:XX:6a:70,ARP,60,reply,192.168.1.12 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.29 detected!)
+554.86271,PCSSystemtec_df:12:91,08:00:8b:e1:8e,ARP,60,reply,192.168.1.71 is at 08:00:27:df:12:91
+554.86271,PCSSystemtec_df:12:91,0B:09:XX:2f:39,ARP,60,reply,192.168.1.25 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.71 detected!)
+564.878132,PCSSystemtec_df:12:91,08:00:8b:0e:17,ARP,60,reply,192.168.1.39 is at 08:00:27:df:12:91
+564.878643,PCSSystemtec_df:12:91,0B:09:XX:6c:ad,ARP,60,reply,192.168.1.189 is at 08:00:27:df:12:91 (duplicate use of 192.168.1.39 detected!)
